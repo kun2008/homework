@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\obj\Debug\Bil.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\bin\Debug\Bil.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\bin\Debug\Bil.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\bin\Debug\Dal.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\bin\Debug\DBManager.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\bin\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\bin\Debug\Dal.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\bin\Debug\DBManager.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\bin\Debug\Model.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\obj\Debug\Bil.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Bil\obj\Debug\Bil.pdb

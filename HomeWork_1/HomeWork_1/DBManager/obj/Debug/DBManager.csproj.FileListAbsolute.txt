@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\DBManager\obj\Debug\DBManager.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\DBManager\bin\Debug\DBManager.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\DBManager\bin\Debug\DBManager.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\DBManager\bin\Debug\Dal.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\DBManager\bin\Debug\Dal.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\DBManager\obj\Debug\DBManager.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\DBManager\obj\Debug\DBManager.pdb

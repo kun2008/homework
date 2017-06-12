@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Model\bin\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Model\bin\Debug\Model.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Model\obj\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\Model\obj\Debug\Model.pdb

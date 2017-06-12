@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\HomeWork.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\HomeWork.exe
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\HomeWork.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\obj\Debug\HomeWork.exe
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\obj\Debug\HomeWork.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\Bil.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\Model.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\Dal.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\DBManager.dll
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\Bil.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\Model.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\Dal.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\bin\Debug\DBManager.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HomeWork\HomeWork_1\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
