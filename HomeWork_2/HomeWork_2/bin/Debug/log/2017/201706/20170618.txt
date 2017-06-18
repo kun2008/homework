@@ -1,0 +1,440 @@
+
+ 
+记录时间：2017-06-18 22:36:40,324 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 
+
+ 
+记录时间：2017-06-18 23:20:15,029 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Person = 南派说书
+ 
+
+ 
+记录时间：2017-06-18 23:20:15,075 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Desk = 南派桌子
+ 
+
+ 
+记录时间：2017-06-18 23:20:15,076 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Chair = 南派椅子
+ 
+
+ 
+记录时间：2017-06-18 23:20:15,076 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Fan = 南派扇子
+ 
+
+ 
+记录时间：2017-06-18 23:20:15,077 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Ruler = 南派尺子
+ 
+
+ 
+记录时间：2017-06-18 23:20:15,077 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：FireValue = System.Collections.Generic.List`1[System.String]
+ 
+
+ 
+记录时间：2017-06-18 23:20:15,085 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：北派:dog
+ 
+
+ 
+记录时间：2017-06-18 23:20:15,212 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Error
+ 
+System.IO.FileNotFoundException: 请确保指定的位置存在声音文件。
+文件名:“C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\HomeWork_2\bin\Debug\\sound\dog.wav”
+   在 System.Media.SoundPlayer.Load()
+   在 VentriModel.VentriBaseModel.Play(String pai, String sound) 位置 C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\VentriBaseModel.cs:行号 123
+   在 VentriModel.SouthVentriModel.DogBark() 位置 C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\SouthVentriModel.cs:行号 42
+   在 HomeWork_2.Program.Show[T](T t) 位置 C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\HomeWork_2\Program.cs:行号 60
+   在 HomeWork_2.Program.Main(String[] args) 位置 C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\HomeWork_2\Program.cs:行号 39
+
+ 
+记录时间：2017-06-18 23:20:31,512 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Person = 南派说书
+ 
+
+ 
+记录时间：2017-06-18 23:20:31,605 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Desk = 南派桌子
+ 
+
+ 
+记录时间：2017-06-18 23:20:31,606 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Chair = 南派椅子
+ 
+
+ 
+记录时间：2017-06-18 23:20:31,606 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Fan = 南派扇子
+ 
+
+ 
+记录时间：2017-06-18 23:20:31,607 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Ruler = 南派尺子
+ 
+
+ 
+记录时间：2017-06-18 23:20:31,607 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：FireValue = System.Collections.Generic.List`1[System.String]
+ 
+
+ 
+记录时间：2017-06-18 23:20:31,609 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：北派:dog
+ 
+
+ 
+记录时间：2017-06-18 23:21:24,279 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Person = 南派说书
+ 
+
+ 
+记录时间：2017-06-18 23:21:24,326 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Desk = 南派桌子
+ 
+
+ 
+记录时间：2017-06-18 23:21:24,326 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Chair = 南派椅子
+ 
+
+ 
+记录时间：2017-06-18 23:21:24,327 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Fan = 南派扇子
+ 
+
+ 
+记录时间：2017-06-18 23:21:24,327 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Ruler = 南派尺子
+ 
+
+ 
+记录时间：2017-06-18 23:21:24,327 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：FireValue = System.Collections.Generic.List`1[System.String]
+ 
+
+ 
+记录时间：2017-06-18 23:21:24,329 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：北派:dog
+ 
+
+ 
+记录时间：2017-06-18 23:21:26,354 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：北派:cry
+ 
+
+ 
+记录时间：2017-06-18 23:21:28,425 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：北派:wind
+ 
+
+ 
+记录时间：2017-06-18 23:23:02,277 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Error
+ 
+System.InvalidOperationException: VentriModel.SouthVentriModel 无法序列化，因为它没有无参数的构造函数。
+   在 System.Xml.Serialization.TypeDesc.CheckSupported()
+   在 System.Xml.Serialization.TypeScope.GetTypeDesc(Type type, MemberInfo source, Boolean directReference, Boolean throwOnError)
+   在 System.Xml.Serialization.ModelScope.GetTypeModel(Type type, Boolean directReference)
+   在 System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   在 System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   在 System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   在 Common.XmlHelper.ObjectToXml[T](T obj, String fileName) 位置 C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Common\XmlHelper.cs:行号 28
+   在 HomeWork_2.Program.Main(String[] args) 位置 C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\HomeWork_2\Program.cs:行号 36
+
+ 
+记录时间：2017-06-18 23:24:23,466 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Person = 南派说书
+ 
+
+ 
+记录时间：2017-06-18 23:24:23,568 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Desk = 南派桌子
+ 
+
+ 
+记录时间：2017-06-18 23:24:23,568 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Chair = 南派椅子
+ 
+
+ 
+记录时间：2017-06-18 23:24:23,569 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Fan = 南派扇子
+ 
+
+ 
+记录时间：2017-06-18 23:24:23,569 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Ruler = 南派尺子
+ 
+
+ 
+记录时间：2017-06-18 23:24:23,569 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：FireValue = System.Collections.Generic.List`1[System.String]
+ 
+
+ 
+记录时间：2017-06-18 23:24:23,571 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：北派:dog
+ 
+
+ 
+记录时间：2017-06-18 23:24:25,645 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：北派:cry
+ 
+
+ 
+记录时间：2017-06-18 23:24:27,648 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：北派:wind
+ 
+
+ 
+记录时间：2017-06-18 23:25:39,259 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Person = 南派说书
+ 
+
+ 
+记录时间：2017-06-18 23:25:39,398 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Desk = 南派桌子
+ 
+
+ 
+记录时间：2017-06-18 23:25:39,398 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Chair = 南派椅子
+ 
+
+ 
+记录时间：2017-06-18 23:25:39,398 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Fan = 南派扇子
+ 
+
+ 
+记录时间：2017-06-18 23:25:39,399 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Ruler = 南派尺子
+ 
+
+ 
+记录时间：2017-06-18 23:25:39,399 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：FireValue = System.Collections.Generic.List`1[System.String]
+ 
+
+ 
+记录时间：2017-06-18 23:25:39,439 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：南派:dog
+ 
+
+ 
+记录时间：2017-06-18 23:25:41,623 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：南派:cry
+ 
+
+ 
+记录时间：2017-06-18 23:25:43,625 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：南派:wind
+ 
+
+ 
+记录时间：2017-06-18 23:27:15,463 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Person = 南派说书
+ 
+
+ 
+记录时间：2017-06-18 23:27:15,752 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Desk = 南派桌子
+ 
+
+ 
+记录时间：2017-06-18 23:27:15,754 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Chair = 南派椅子
+ 
+
+ 
+记录时间：2017-06-18 23:27:15,755 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Fan = 南派扇子
+ 
+
+ 
+记录时间：2017-06-18 23:27:15,756 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：Ruler = 南派尺子
+ 
+
+ 
+记录时间：2017-06-18 23:27:15,756 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：HomeWork_2.Program property: [(null)] - 
+错误描述：FireValue = System.Collections.Generic.List`1[System.String]
+ 
+
+ 
+记录时间：2017-06-18 23:27:15,874 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：南派:dog
+ 
+
+ 
+记录时间：2017-06-18 23:27:18,292 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：南派:cry
+ 
+
+ 
+记录时间：2017-06-18 23:27:20,294 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：VentriModel.VentriBaseModel property: [(null)] - 
+错误描述：南派:wind
+ 

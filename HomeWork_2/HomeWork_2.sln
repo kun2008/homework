@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentriModel", "Model\VentriModel.csproj", "{94CC0E12-9845-489B-9E55-945146889579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{145489D2-D5D0-473F-8995-F2E7D99671B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork_2", "HomeWork_2\HomeWork_2.csproj", "{2C12A154-0EC3-4B80-A459-F2A9DB1B5D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CC0E12-9845-489B-9E55-945146889579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CC0E12-9845-489B-9E55-945146889579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CC0E12-9845-489B-9E55-945146889579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CC0E12-9845-489B-9E55-945146889579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145489D2-D5D0-473F-8995-F2E7D99671B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145489D2-D5D0-473F-8995-F2E7D99671B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145489D2-D5D0-473F-8995-F2E7D99671B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145489D2-D5D0-473F-8995-F2E7D99671B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C12A154-0EC3-4B80-A459-F2A9DB1B5D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C12A154-0EC3-4B80-A459-F2A9DB1B5D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C12A154-0EC3-4B80-A459-F2A9DB1B5D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C12A154-0EC3-4B80-A459-F2A9DB1B5D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

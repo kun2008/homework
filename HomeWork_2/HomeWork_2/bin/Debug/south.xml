@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<SouthVentriModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>南派说书</Person>
+  <Desk>南派桌子</Desk>
+  <Chair>南派椅子</Chair>
+  <Fan>南派扇子</Fan>
+  <Ruler>南派尺子</Ruler>
+  <FireValue>
+    <string>夫起大呼</string>
+    <string>妇亦起大呼</string>
+    <string>两儿齐哭</string>
+    <string>俄而百千人大呼</string>
+    <string>百千儿哭</string>
+    <string>百千犬吠</string>
+  </FireValue>
+</SouthVentriModel>

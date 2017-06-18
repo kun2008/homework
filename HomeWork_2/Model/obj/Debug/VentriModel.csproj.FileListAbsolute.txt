@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\bin\Debug\VentriModel.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\bin\Debug\VentriModel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\obj\Debug\VentriModel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\obj\Debug\VentriModel.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\obj\Debug\VentriModel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\bin\Debug\Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\bin\Debug\Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\bin\Debug\log4net.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\homework\homework\HomeWork_2\Model\bin\Debug\Newtonsoft.Json.xml
